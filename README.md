@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Anis</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies, building mobile and web applications, and solving industrial problems through software.
+- 🎓 &nbsp; Master’s degree in Networks and Distributed Systems, Bachelor’s degree in Information Technology.
+- 💼 &nbsp; Currently working as a Software Engineer at Dzexpert, developing apps and systems for industrial use.
+- 🌱 &nbsp; Learning more about Cloud Engineering, Distributed Systems Architecture, and Artificial Intelligence.
+- ✍️ &nbsp; Passionate about Graphic Design and actively involved in volunteering for tech.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
