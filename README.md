@@ -1,6 +1,10 @@
 <!--<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">-->
-
-<h2> Hey there! I'm Anis</h2>
+<table style="background-color:#00FF00; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><h2>Hey there! I'm Anis</h2></td>
+    <td style="border: none;"><img src="programming_computer.gif"></td>
+  </tr>
+</table>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
